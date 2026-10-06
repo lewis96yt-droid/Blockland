@@ -1,0 +1,16 @@
+{
+  "name": "blockland-classic",
+  "version": "1.0.0",
+  "description": "A 2008-style blocky third-person multiplayer game that runs in the browser",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "license": "MIT"
+}
